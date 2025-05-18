@@ -1,5 +1,3 @@
-# 👨‍💻 Jonas Henrique Ribeiro Paula
-
 <div align="center">
   <h3>📱 Mobile Engineer | 💻 Full Stack Developer | 🚀 React Native | Angular | Node.js | Docker</h3>
   
