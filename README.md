@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>📱 Mobile Engineer | 💻 Full Stack Developer | 🚀 React Native | Angular | Node.js | Docker</h3>
+  <h3>📱 Mobile Engineer | 💻 Full Stack Developer</h3>
   
   <a href="https://www.linkedin.com/in/jonaspaula">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -17,7 +17,7 @@ Julia and Fred are the stars of my life! 💖
 
 ## 📊 GitHub Stats
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jonasribpaula\&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jonasribpaula\&layout=compact&theme=react)
 
 ## 🛠️ Technologies and Tools
 ### 🌐 Languages
